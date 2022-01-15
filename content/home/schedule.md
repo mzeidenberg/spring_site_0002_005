@@ -20,3 +20,19 @@ After every class, I ask you to give feedback via an exit ticket, which is due b
 |W 2/9|   06|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
 |M 2/14|   07|foo|Self-paced learning module #3 and quiz, exit ticket from previous class|Exit ticket|None|
 |W 2/16|   08|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
+|M 2/21|   --|No class- President's Day| | | |
+|W 2/23|   09| |Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
+|M 2/28|   10|foo|Self-paced learning module #3 and quiz, exit ticket from previous class|Exit ticket|None|
+|W 3/2|   11|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
+|M 3/7|   12|foo|Self-paced learning module #3 and quiz, exit ticket from previous class|Exit ticket|None|
+|W 3/9|   13|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
+|M 3/14|   --|No class- Spring Break| | | |
+|W 3/16|   --|No class- Spring Break| | | |
+|M 3/21|   14|foo|Self-paced learning module #3 and quiz, exit ticket from previous class|Exit ticket|None|
+|W 3/23|   15|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
+|M 3/28|   16|foo|Self-paced learning module #3 and quiz, exit ticket from previous class|Exit ticket|None|
+|W 3/30|   17|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
+|M 2/14|   07|foo|Self-paced learning module #3 and quiz, exit ticket from previous class|Exit ticket|None|
+|W 2/16|   08|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
+|M 2/14|   07|foo|Self-paced learning module #3 and quiz, exit ticket from previous class|Exit ticket|None|
+|W 2/16|   08|Workshop|Assignment #2; exit ticket from previous class|Assignment #3, self-paced learning module #4 and quiz, exit ticket|None|
