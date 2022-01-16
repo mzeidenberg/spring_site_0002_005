@@ -13,7 +13,7 @@ Introduction to Computer Programming (in Python)
 Sections 5 and 11  
 [Matt Zeidenberg](https://www.mattzeidenberg.com/)  
 Clinical Associate Professor   
-[Department of Computer Science](https://cs.nyu.edu/home/index.html)
+[Department of Computer Science](https://cs.nyu.edu/home/index.html)   
 Courant Institute of Mathematical Sciences  
 New York University  
 Warren Weaver Hall,  251 Mercer Street, Room 419   
