@@ -7,16 +7,9 @@ main:
   - name: Course & Instructor
     url: '#instructor'
     weight: 10 
+  - name: Syllabus
+    url: '#syllabus'
+    weight: 20
   - name: Schedule
     url: '#schedule'
-    weight: 20
-  - name: Syllabus
-    url: '#projects'
     weight: 30
-  - name:  Materials
-    url: '#featured'
-    weight: 40
-  - name: Assignments
-    url: '#contact'
-    weight: 50
-
