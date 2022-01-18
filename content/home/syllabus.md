@@ -12,7 +12,7 @@ columns: '1'
 * Section #05 – Monday / Wednesday, 11:00AM — 12:15PM, Silver 101A
 * Section #11 – Monday / Wednesday, 3:30AM — 4:45AM, Silver 207
 
-Sessions will be recorded on Zoom, but in-person attendence is preferred if at all possible, since I am trying to make the class as interactive as possible. Zoom links can be found in Brightspace and links to the recordings will be there as well after they are created.
+Sessions will be recorded on Zoom, but in-person attendence is preferred if at all possible. Zoom links can be found in Brightspace and links to the recordings will be there as well after they are created.
 
 ## Common Course Syllabus
 General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/courses/spring22/CSCI-UA.0002-003/common_syllabus/).
@@ -51,9 +51,9 @@ be expected to complete before the same topics are covered in class.
 
 The online modules contain video, text and interactive programming exercises. When you are finished wtih a module, you will be asked to take a short online quiz (via Brightspace) to test your understanding of the concepts presented in the module.
 
-One class period each week (the "lecture," but very interactve) will focus on the application of the principles taught in the online learning module.
+One class period each week (the "lecture," but I try to make it as interactve as possible) will focus on the application of the principles taught in the online learning module.
 
-Weekly assignments will be presented in the other class period, the "workshop." The professor and a TA will be available in class to provide support and guidance in starting work on an assignment.
+Weekly assignments will be presented in the other class period, the "workshop." I and a TA will be available in class to provide support and guidance in starting work on an assignment.
 
 ## Grading
 Your grade in this course will be determined based on the breakdown below. Note that the following rubric serves as a guideline for how grades will be calculated. The final percentage allotted to each category is at my discretion.
@@ -66,7 +66,7 @@ Your grade in this course will be determined based on the breakdown below. Note 
 If you plan to continue with Computer Science courses such as CSCI-UA.0101, you *MUST* earn a grade of C or better in this course. No exceptions will be made. Exams may be curved at my discretion.
 
 ## Quizzes
-There will be 11 online quizzes that go along with each online learning module. These quizzes contain a series of multiple choice questions will count towards your "Quizzes and Participation" score, which is worth 10% of your final grade. Quizzes are delivered via Brightspace and can be attempted up to 5 times. Your most recent score will be the one recorded (not your highest score). The online quizzes should be completed before class on the day in which they are due. Please see the course schedule for a complete list of due dates.  "Grace" days (described below) do not apply to quizzes.
+There will be 11 online quizzes that go along with each online learning module. These quizzes contain a series of multiple choice questions and will count towards your "Quizzes and Participation" score, which is worth 10% of your final grade. Quizzes are delivered via Brightspace and can be attempted up to 5 times. Your most recent score will be the one recorded (not your highest score). The online quizzes should be completed before class on the day in which they are due. Please see the course schedule for a complete list of due dates.  "Grace" days (described below) do not apply to quizzes.
 
 ## Exit Tickets
 After class, you will be responsible for a short self-paced activity that you can participate in even if you didn't attend the live lecture. These activities, called "Exit Tickets", will be delivered via Brightspace under the "Quizzes" tool. This will count as your participation for the day and will be factored into your "Quizzes and Participation" grade (10% of your overall grade). These activities are due before our next class meeting. "Grace" days (described below) do not apply to exit tickets.
@@ -79,7 +79,7 @@ There will be 11 assignments in this course that will be assigned on a weekly ba
 
 I suggest that you use cloud storage (e.g. Google Drive, Dropbox, etc.) to save your work on your assignments. That way, if your machine crashes, you won't lose your work. Also, remember to save your work frequently. "Save early, save often."
 
-It is important not to get behind in turning your assignments (this class is cumulative).  Late submissions will be penalized by 10% off per day late, and assignments that are more than 10 days late can not be turned in for credit. That being said, sometimes there are unforeseen situations that may impede your progress, as a result you are being given 10 grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don't waste them simply by procrastinating). You don't need to do anything special to use these "grace" days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
+It is important not to get behind in turning your assignments (this class is cumulative).  Late submissions will be penalized by 10% off per day late, and assignments that are more than 10 days late can not be turned in for credit. That being said, sometimes there are unforeseen situations that may impede your progress, as a result you are being given ten grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don't waste them simply by procrastinating). You don't need to do anything special to use these "grace" days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
 
 You will be using Brightspace to turn in your homework assignments.  It is your responsibility to make sure that your assignments have been submitted successfully.  You can do this by simply attempting to download your work after it has been uploaded to the system – if you are able to do so, your assignment was submitted successfully.
 
@@ -135,7 +135,7 @@ We will also be using Ed during the programming workshops.
 
 To use Ed: when you're ready to ask a question simply click the "New Thread" button).  Then type your question in the box provided, using the "code" button ("<>") to add in live Python3 code to your thread.
 
-## Software
+## Software for Python Programming
 The main software package that we will be working with this semester is the Python programming language.  Python is an open-source project, meaning it is available at no cost and anyone can contribute to it. You can download it for Mac or Windows at http://www.python.org/download. We will be using Python 3.x this semester.
 
 If you have a computer that cannot run Python, you can use an online code editing tool such as [repl.it](https://replit.com) or a private Ed workspace. Please contact me directly if you'd like to discuss these options in greater detail.
@@ -160,7 +160,7 @@ Note about saving your work in the labs: You will be able to save your work done
     - [Tech @ NYU (cross dept.)](https://techatnyu.org/)
 
 ## Disability Disclosure Statement
-Academic accommodations are available for students with disabilities. Please contact the Moses Center for Students with Disabilities (212-998-4980 or mosescsd@nyu.edu) for further information. Students who are requesting academic accommodations are advised to reach out to the Moses Center as early as possible in the semester for assistance.
+Academic accommodations are available for students with disabilities. Please contact the Moses Center for Students with Disabilities (212-998-4980 or mosescsd@nyu.edu) for further information. Students who are requesting academic accommodations are advised to reach out to the Moses Center as early as possible in the semester for assistance, although it can be done at any time during the semester.
 
 ## Feedback
 I recognize that every student has a different level of background knowledge prior experience when it comes to technology. This course is designed as an introductory level class and topics will be presented assuming very little prior exposure to the topics. With that said, every student learns differently and I want to ensure that each of you is getting the maximum amount out of the course content as possible. Please do not hesitate to get in touch with me via email or during office hours if you feel as though you are falling behind or you are not understanding a certain concept.
