@@ -1,0 +1,8 @@
+i#!/bin/sh
+USER=mz3332
+HOST=access.cims.nyu.edu
+DIR=/usr/httpd/htdocs_cs/courses/spring22/CSCI-UA.0002-005/
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
