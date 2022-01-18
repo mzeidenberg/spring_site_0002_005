@@ -72,10 +72,7 @@ There will be 11 online quizzes that go along with each online learning module. 
 After class, you will be responsible for a short self-paced activity that you can participate in even if you didn't attend the live lecture. These activities, called "Exit Tickets", will be delivered via Brightspace under the "Quizzes" tool. This will count as your participation for the day and will be factored into your "Quizzes and Participation" grade (10% of your overall grade). These activities are due before our next class meeting. "Grace" days (described below) do not apply to exit tickets.
 
 ## In-Class Exercises
-During each class, students will present about three short programming exercises. You
-are required to present at least one exercise over the course of the semester, and this
-will be counted as part of your participation grade. These exercises will be posted in
-advance of each class, along with a sign-up sheet.
+During each class, students will present their solutions to about three short programming exercises. You are required to present at least one exercise over the course of the semester, and this will be counted as part of your participation grade. You do not have to get the solution to the exercise correct to get credit, but you will have to try! These exercises will be posted in advance of each class, along with a sign-up sheet.
 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
