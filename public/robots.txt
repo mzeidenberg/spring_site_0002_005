@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://cs.nyu.edu/courses/spring22/CSCI-UA.0002-005/sitemap.xml
