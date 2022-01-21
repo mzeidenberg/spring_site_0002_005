@@ -38,7 +38,7 @@ Three years of high school mathematics or equivalent. Students who have taken or
 
 If you have some limited experience with computer programming, you may want to take CSCI-UA.0003 (Introduction to Computer Programming, Limited Prior Experience) instead of this course.
 
-If you wish to place out of this course into CSCI-UA.0101 (Introduction to Computer Science) and you have experience with computer programming using C, C++, Java, JavaScript, Python or Matlab you should take the NYU Computer Science Placement Exam for Freshmen, even if you are a sophomore or junior. See the separate web page on the NYU Computer Science Placement Exam for Freshmen ( Sample Placement Exams ) You may use either C, C++, Java, JavaScript, Python or Matlab to answer the questions.
+If you wish to place out of this course into CSCI-UA.0101 (Introduction to Computer Science), and you have experience with computer programming using C, C++, Java, JavaScript, Python or Matlab you should take the NYU Computer Science Placement Exam for Freshmen, even if you are a sophomore or junior. See the separate web page on the NYU Computer Science Placement Exam for Freshmen ( Sample Placement Exams ) You may use either C, C++, Java, JavaScript, Python or Matlab to answer the questions.
 
 Students should email the CS undergraduate program administrator at undergrad@cs.nyu.edu to set up a test.  Tests can be completed asynchronously and online, and should only take an hour to complete.
 
@@ -85,7 +85,7 @@ If you plan to continue with Computer Science courses such as CSCI-UA.0101, you 
 There will be 11 online quizzes that go along with each online learning module. These quizzes contain a series of multiple choice questions and will count towards your "Quizzes and Participation" score, which is worth 10% of your final grade. Quizzes are delivered via Brightspace and can be attempted up to 5 times. Your most recent score will be the one recorded (not your highest score). The online quizzes should be completed before class on the day in which they are due. Please see the course schedule for a complete list of due dates.  "Grace" days (described below) do not apply to quizzes.
 
 ## Exit Tickets
-After class, you will be responsible for a short self-paced activity that you can participate in even if you didn't attend the live lecture. These activities, called "Exit Tickets", will be delivered via Brightspace under the "Quizzes" tool. This will count as your participation for the day and will be factored into your "Quizzes and Participation" grade (10% of your overall grade). These activities are due before our next class meeting. "Grace" days (described below) do not apply to exit tickets.
+After class, you will be responsible for a short self-paced activity that you can participate in even if you didn't attend the live lecture. These activities, called "Exit Tickets", will be delivered via Brightspace under the "Quizzes" tool. This will be factored into your "Quizzes and Participation" grade (10% of your overall grade). These activities are due before our next class meeting. "Grace" days (described below) do not apply to exit tickets.
 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
