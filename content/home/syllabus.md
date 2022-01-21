@@ -18,11 +18,13 @@ Sessions will be recorded on Zoom, but in-person attendence is preferred if at a
 General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/courses/spring22/CSCI-UA.0002-003/common_syllabus/).
 
 ## Office Hours
-Office hours will be held both in person (in my office, which is 419 Warren Weaver Hall) and over Zoom this semester. Times will be announced shortly (and posted here).
+Office hours will be held Zoom this semester on Mondays and Wednesdays from 1-3 PM.
 
 The Zoom link for office hours is: https://nyu.zoom.us/j/8517780739
 
-If you connect by Zoom, please turn your camera on if possible.
+Please turn your camera on if possible.
+
+If you are unable to come at these times and would like to talk to me, please email me for an appointment.
 
 ## Prerequisites
 Three years of high school mathematics or equivalent. No prior computer experience assumed. Students with any programming experience should consult with the computer science department (at 212-998-3010 or undergrad@cs.nyu.edu) before registering (another course might be more appropriate). Students who have taken or are taking CSCI-UA 101 will not receive credit for this course. Note: This course does not count towards the major in computer science, although it is a prerequisite for students with no previous programming experience for CSCI-UA 101, Introduction to Computer Science (one can major in CS after taking 101). It is offered every semester in multiple sessions.
