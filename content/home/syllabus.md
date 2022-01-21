@@ -161,7 +161,7 @@ Because this class involves in-class programming assignments, it's highly encour
 ## Using the NYU Computing Facilities
 NYU provides [computer labs](https://www.nyu.edu/life/information-technology/teaching-and-learning-services/studios-and-computing-labs/student-technology-centers-computer-labs.html) around campus.
 
-Note about saving your work in the labs: You will be able to save your work done in the ITS labs under your NYU Home Account and/or on your own flash drives. Although you can write to the hard disks of the machines in the labs, you cannot be sure that you will have access to the same machine the next time you enter the lab and the drives in the lab are frequently erased. The best option is to upload your files online and download them as needed (we will go over this in class).
+Note about saving your work in the labs: You will be able to save your work done in the ITS labs under your NYU Home Account and/or on your own flash drives. Although you can write to the hard disks of the machines in the labs, you cannot be sure that you will have access to the same machine the next time you enter the lab and the drives in the lab are frequently erased. The best option is to upload your files online and download them as needed.
 
 ## Department Information
 * [CS Department](https://cs.nyu.edu/home/index.html)
