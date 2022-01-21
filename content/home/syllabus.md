@@ -29,10 +29,10 @@ in Brightspace under the "Zoom" tab.
 
 Please turn your camera on if possible when you connect.
 
-If you are unable to come at these times and would like to talk to me, please email me for an appointment.
+If you are unable to log on at these times and would like to talk to me, please email me for an appointment.
 
 ## Prerequisites
-Three years of high school mathematics or equivalent. No prior computer experience assumed. Students with any programming experience should consult with the computer science department (at 212-998-3010 or undergrad@cs.nyu.edu) before registering (another course might be more appropriate). Students who have taken or are taking CSCI-UA 101 will not receive credit for this course. Note: This course does not count towards the major in computer science, although it is a prerequisite for students with no previous programming experience for CSCI-UA 101, Introduction to Computer Science (one can major in CS after taking 101). It is offered every semester in multiple sessions.
+Three years of high school mathematics or equivalent. Students who have taken or are taking CSCI-UA 101 will not receive credit for this course. Note: This course does not count towards the major in computer science, although it is a prerequisite for students with no previous programming experience for CSCI-UA 101, Introduction to Computer Science (one can major in CS after taking 101). It is offered every semester in multiple sessions.
 
 ## Placing out of this course into 0003 or 0101
 
