@@ -125,7 +125,7 @@ Computer science is similar to math, in that the material is cumulative in natur
 * Office Hours 
 
 ## Information about Ed
-A link to our Ed forum site will be posted close to the beginning of the semester.
+Please sign up for the Ed system using this [link](https://edstem.org/us/join/Scadpg).
 
 Ed is an online discussion forum system that is designed to make it easy to have conversations around code.  Using Ed you will be able to ask me, the course tutors or your fellow students questions about course content and homework assignments.  For example, let's say you're having trouble understanding how to convert user input from a String to an Integer.  You can create a new thread on our Ed discussion forum with your question - including a live code snippet - and members of the class can respond and provide helpful hints to get you started.
 
