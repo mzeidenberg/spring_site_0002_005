@@ -10,7 +10,11 @@ columns: '1'
 ---
 ## Sections
 * Section #05 – Monday / Wednesday, 11:00AM — 12:15PM, Silver 101A
+    - Zoom link: https://nyu.zoom.us/j/96360552824
 * Section #11 – Monday / Wednesday, 3:30AM — 4:45AM, Silver 207
+    - Zoom link: https://nyu.zoom.us/j/98202205811
+
+The above Zoom links can also be found in Brightspace under the "Zoom" tab.
 
 Sessions will be recorded on Zoom, but in-person attendence is preferred if at all possible. If you have to attend on Zoom, please turn on your camera if possible. Zoom links can be found in Brightspace and links to the recordings will be there as well after they are created.
 
@@ -18,11 +22,12 @@ Sessions will be recorded on Zoom, but in-person attendence is preferred if at a
 General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/courses/spring22/CSCI-UA.0002-003/common_syllabus/).
 
 ## Office Hours
-Office hours will be held Zoom this semester on Mondays and Wednesdays from 1-3 PM.
+Office hours will be held on Zoom this semester on Mondays and Wednesdays from 1-3 PM.
 
-The Zoom link for office hours is: https://nyu.zoom.us/j/8517780739
+The Zoom link for office hours is https://nyu.zoom.us/j/94907494591 which also can be found
+in Brightspace under the "Zoom" tab.
 
-Please turn your camera on if possible.
+Please turn your camera on if possible when you connect.
 
 If you are unable to come at these times and would like to talk to me, please email me for an appointment.
 
