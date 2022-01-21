@@ -12,7 +12,7 @@ columns: '1'
 * Section #05 – Monday / Wednesday, 11:00AM — 12:15PM, Silver 101A
 * Section #11 – Monday / Wednesday, 3:30AM — 4:45AM, Silver 207
 
-Sessions will be recorded on Zoom, but in-person attendence is preferred if at all possible. Zoom links can be found in Brightspace and links to the recordings will be there as well after they are created.
+Sessions will be recorded on Zoom, but in-person attendence is preferred if at all possible. If you have to attend on Zoom, please turn on your camera if possible. Zoom links can be found in Brightspace and links to the recordings will be there as well after they are created.
 
 ## Common Course Syllabus
 General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/courses/spring22/CSCI-UA.0002-003/common_syllabus/).
