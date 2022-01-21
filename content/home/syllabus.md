@@ -27,6 +27,13 @@ If you connect by Zoom, please turn your camera on if possible.
 ## Prerequisites
 Three years of high school mathematics or equivalent. No prior computer experience assumed. Students with any programming experience should consult with the computer science department (at 212-998-3010 or undergrad@cs.nyu.edu) before registering (another course might be more appropriate). Students who have taken or are taking CSCI-UA 101 will not receive credit for this course. Note: This course does not count towards the major in computer science, although it is a prerequisite for students with no previous programming experience for CSCI-UA 101, Introduction to Computer Science (one can major in CS after taking 101). It is offered every semester in multiple sessions.
 
+## Placing out of this course into 0003 or 0101
+
+If you wish to place out of CSCI-UA.0002 (Introduction to Programming), into CSCI-UA.0101 (Introduction to Computer Science), and you have experience with computer programming using C, C++, Java, JavaScript, Python or Matlab you should take the NYU Computer Science Placement Exam for Freshmen, even if you are a sophomore or junior. See the separate web page on the NYU Computer Science Placement Exam for Freshmen ( Sample Placement Exams ) You may use either C, C++, Java, JavaScript, Python or Matlab to answer the questions.
+
+Students should email the CS undergraduate program administrator at undergrad@cs.nyu.edu to set up a test.  Tests can be completed asynchronously and online, and should only take an hour to complete.
+
+
 ## Course Description
 This course is an gentle introduction to the fundamentals of computer programming, which is the foundation of computer science. Students will design, write and debug computer programs. No knowledge of programming is assumed.
 
@@ -70,9 +77,6 @@ There will be 11 online quizzes that go along with each online learning module. 
 
 ## Exit Tickets
 After class, you will be responsible for a short self-paced activity that you can participate in even if you didn't attend the live lecture. These activities, called "Exit Tickets", will be delivered via Brightspace under the "Quizzes" tool. This will count as your participation for the day and will be factored into your "Quizzes and Participation" grade (10% of your overall grade). These activities are due before our next class meeting. "Grace" days (described below) do not apply to exit tickets.
-
-## In-Class Exercises
-During each class, students will present their solutions to about three short programming exercises. You are required to present at least one exercise over the course of the semester, and this will be counted as part of your participation grade. You do not have to get the solution to the exercise correct to get credit, but you will have to try! These exercises will be posted in advance of each class, along with a sign-up sheet.
 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
