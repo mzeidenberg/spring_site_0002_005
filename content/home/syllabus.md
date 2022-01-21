@@ -34,9 +34,11 @@ If you are unable to log on at these times and would like to talk to me, please 
 ## Prerequisites
 Three years of high school mathematics or equivalent. Students who have taken or are taking CSCI-UA 101 will not receive credit for this course. Note: This course does not count towards the major in computer science, although it is a prerequisite for students with no previous programming experience for CSCI-UA 101, Introduction to Computer Science (one can major in CS after taking 101). It is offered every semester in multiple sessions.
 
-## Placing out of this course into 0003 or 0101
+## Are you in the right course?
 
-If you wish to place out of CSCI-UA.0002 (Introduction to Programming), into CSCI-UA.0101 (Introduction to Computer Science), and you have experience with computer programming using C, C++, Java, JavaScript, Python or Matlab you should take the NYU Computer Science Placement Exam for Freshmen, even if you are a sophomore or junior. See the separate web page on the NYU Computer Science Placement Exam for Freshmen ( Sample Placement Exams ) You may use either C, C++, Java, JavaScript, Python or Matlab to answer the questions.
+If you have some limited experience with computer programming, you may want to take CSCI-UA.0003 (Introduction to Computer Programming, Limited Prior Experience) instead of this course.
+
+If you wish to place out of this course into CSCI-UA.0101 (Introduction to Computer Science) and you have experience with computer programming using C, C++, Java, JavaScript, Python or Matlab you should take the NYU Computer Science Placement Exam for Freshmen, even if you are a sophomore or junior. See the separate web page on the NYU Computer Science Placement Exam for Freshmen ( Sample Placement Exams ) You may use either C, C++, Java, JavaScript, Python or Matlab to answer the questions.
 
 Students should email the CS undergraduate program administrator at undergrad@cs.nyu.edu to set up a test.  Tests can be completed asynchronously and online, and should only take an hour to complete.
 
