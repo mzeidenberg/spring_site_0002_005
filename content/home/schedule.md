@@ -10,8 +10,6 @@ columns: '1'
 ---
 After every class, I ask you to give feedback via an exit ticket, which is due before the next class. All of the self-paced learning modules have an associated quiz. The exit tickets and the quizzes can be found under the quizzes tab in Brightspace.
 
-Reading should be done before each class.
-
 |Date  |Class|Topics                    |Due (before class)|Assigned|(Optional) Reading|
 |------|-----|--------------------------|------------------|--------|------------------|
 |M 1/24|   01|Review of the course and the syllabus; Overview of computing; Using IDLE, [Visual Studio CODE](https://code.visualstudio.com/docs/python/python-tutorial), and [Replit](https://replit.com) for writing Python programs; Programming turtle graphics|Nothing|[Self-paced learning module #1](https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php) and quiz, exit ticket|None|
