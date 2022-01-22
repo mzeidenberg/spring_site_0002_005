@@ -86,7 +86,7 @@ There will be 11 online quizzes that go along with each online learning module. 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
 
-I suggest that you use cloud storage (e.g. Google Drive, Dropbox, etc.) to save your work on your assignments. That way, if your machine crashes, you won't lose your work. Also, remember to save your work frequently. Speaking as someone who has sometimes lost work, I say "save early, save often."
+I suggest that you use cloud storage (e.g. Google Drive, Dropbox, etc.) to save your work on your assignments. That way, if your machine crashes, you won't lose your work. Also, remember to save your work frequently. Speaking as someone who has sometimes lost work, I say "Save early, save often."
 
 It is important not to get behind in turning your assignments (this class is cumulative).  Late submissions will be penalized by 10% off per day late, and assignments that are more than 10 days late can not be turned in for credit. That being said, sometimes there are unforeseen situations that may impede your progress, as a result you are being given ten grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don't waste them simply by procrastinating). You don't need to do anything special to use these "grace" days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
 
