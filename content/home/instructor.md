@@ -9,7 +9,7 @@ design:
 columns: '1'
 ---
 
-Introduction to Computer Programming (in Python)  
+Introduction to Computer Programming (in Python) (No Prior Experience)
 Sections 5 and 11  
 [Matt Zeidenberg](https://www.mattzeidenberg.com/)  
 Clinical Associate Professor   

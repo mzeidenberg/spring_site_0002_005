@@ -38,10 +38,9 @@ Three years of high school mathematics or equivalent. Students who have taken or
 
 If you have some limited experience with computer programming, you may want to take CSCI-UA.0003 (Introduction to Computer Programming, Limited Prior Experience) instead of this course.
 
-If you wish to place out of this course into CSCI-UA.0101 (Introduction to Computer Science), and you have experience with computer programming using C, C++, Java, JavaScript, Python or Matlab you should take the NYU Computer Science Placement Exam for Freshmen, even if you are a sophomore or junior. See the separate web page on the NYU Computer Science Placement Exam for Freshmen ( Sample Placement Exams ) You may use either C, C++, Java, JavaScript, Python or Matlab to answer the questions.
+If you wish to place out of this course into CSCI-UA.0101 (Introduction to Computer Science) and you have experience with computer programming using C, C++, Java, JavaScript, Python or Matlab you should take the NYU Computer Science Placement Exam for Freshmen, even if you are a sophomore or junior. See the separate web page on the NYU Computer Science Placement Exam for Freshmen ( Sample Placement Exams ) You may use either C, C++, Java, JavaScript, Python or Matlab to answer the questions.
 
 Students should email the CS undergraduate program administrator at undergrad@cs.nyu.edu to set up a test.  Tests can be completed asynchronously and online, and should only take an hour to complete.
-
 
 ## Course Description
 This course is an gentle introduction to the fundamentals of computer programming, which is the foundation of computer science. Students will design, write and debug computer programs. No knowledge of programming is assumed.
@@ -83,9 +82,6 @@ If you plan to continue with Computer Science courses such as CSCI-UA.0101, you 
 
 ## Quizzes
 There will be 11 online quizzes that go along with each online learning module. These quizzes contain a series of multiple choice questions and will count towards your "Quizzes and Participation" score, which is worth 10% of your final grade. Quizzes are delivered via Brightspace and can be attempted up to 5 times. Your most recent score will be the one recorded (not your highest score). The online quizzes should be completed before class on the day in which they are due. Please see the course schedule for a complete list of due dates.  "Grace" days (described below) do not apply to quizzes.
-
-## Exit Tickets
-After class, you will be responsible for a short self-paced activity that you can participate in even if you didn't attend the live lecture. These activities, called "Exit Tickets", will be delivered via Brightspace under the "Quizzes" tool. This will be factored into your "Quizzes and Participation" grade (10% of your overall grade). These activities are due before our next class meeting. "Grace" days (described below) do not apply to exit tickets.
 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
@@ -153,7 +149,7 @@ The main software package that we will be working with this semester is the Pyth
 
 If you have a computer that cannot run Python, you can use an online code editing tool such as [repl.it](https://replit.com) or a private Ed workspace. Please contact me directly if you'd like to discuss these options in greater detail.
 
-You can use [IDLE](https://docs.python.org/3/library/idle.html), the programming editor built in to Python (it is installed when you install Python), or [Visual Studio Code](https://code.visualstudio.com/docs/languages/python) to develop your programs. I will be going over these options in class.
+You can use [IDLE](https://docs.python.org/3/library/idle.html), the programming editor built in to Python (it is installed when you install Python), or [Visual Studio Code](https://code.visualstudio.com/docs/languages/python) or another system (there are many that support Python; another good one is [PyCharm](https://www.jetbrains.com/pycharm/)) to develop your programs. I will be going over some of these options in class. You will be developing your programs as .py files and handing them in using Brightspace.
 
 ## Personal Computers
 Because this class involves in-class programming assignments, it's highly encouraged that you bring a laptop to class. If you don't have a laptop during in-class work, then you may work with a partner. Keep in mind that computers often have hardware related problems; I recommend storing your programs on cloud storage like Google Drive or Dropbox. If you do choose to save your programs locally on your computer, you should back it up frequently.  If you don't have a computer you can use the NYU computer labs (see below).
@@ -176,4 +172,4 @@ Note about saving your work in the labs: You will be able to save your work done
 Academic accommodations are available for students with disabilities. Please contact the Moses Center for Students with Disabilities (212-998-4980 or mosescsd@nyu.edu) for further information. Students who are requesting academic accommodations are advised to reach out to the Moses Center as early as possible in the semester for assistance, although it can be done at any time during the semester.
 
 ## Feedback
-I recognize that every student has a different level of background knowledge prior experience when it comes to technology. This course is designed as an introductory level class and topics will be presented assuming very little prior exposure to the topics. With that said, every student learns differently and I want to ensure that each of you is getting the maximum amount out of the course content as possible. Please do not hesitate to get in touch with me via email or during office hours if you feel as though you are falling behind or you are not understanding a certain concept.
+I recognize that every student has a different level of background knowledge prior experience when it comes to technology. This course is designed as an introductory level class and topics will be presented assuming very little prior exposure to the topics. With that said, every student learns differently and I want to ensure that each of you is getting the maximum amount out of the course content as possible. Please do not hesitate to get in touch with me via email or during office hours if you feel as though you are falling behind or you are not understanding a particular concept.
