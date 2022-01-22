@@ -61,7 +61,7 @@ The first one is freely available online (you can also buy a printed copy). The 
 [Starting Out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-My-Lab-Programming-with-Pearson-e-Text-Access-Card-for-Starting-out-with-Python-5th-Edition/PGM2889368.html) - 5th Edition - Tony Gaddis
 
 ## Course Format
-This course is use "blended learning" format. This means is that a good portion of the lecture and reading material are presented in interactive online modules, which you will 
+This course is using a "blended learning" format. This means is that a good portion of the lecture and reading material are presented in interactive online modules, which you will 
 be expected to complete before the same topics are covered in class.
 
 The online modules contain video, text and interactive programming exercises. When you are finished wtih a module, you will be asked to take a short online quiz (via Brightspace) to test your understanding of the concepts presented in the module.
