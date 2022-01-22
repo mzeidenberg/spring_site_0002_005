@@ -81,7 +81,7 @@ Your grade in this course will be determined based on the breakdown below. Note 
 If you plan to continue with Computer Science courses such as CSCI-UA.0101, you *MUST* earn a grade of C or better in this course. No exceptions will be made. Exams may be curved at my discretion.
 
 ## Quizzes
-There will be 11 online quizzes that go along with each online learning module. These quizzes contain a series of multiple choice questions and will count towards your "Quizzes and Participation" score, which is worth 10% of your final grade. Quizzes are delivered via Brightspace and can be attempted up to 5 times. Your most recent score will be the one recorded (not your highest score). Ideally, the online quizzes should be completed before class on the day in which they are due, although you have until 11:59 PM on that day. Please see the course schedule for a complete list of due dates.  "Grace" days (described below) do not apply to quizzes.
+There will be 11 online quizzes that go along with each online learning module. These quizzes contain a series of multiple choice questions and will count towards your "Quizzes and Participation" score, which is worth 10% of your final grade. Quizzes are delivered via Brightspace and can be attempted up to 5 times. Your most recent score will be the one recorded (not your highest score). The online quizzes should be completed before class on the day in which they are due. Please see the course schedule for a complete list of due dates.  "Grace" days (described below) do not apply to quizzes.
 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
