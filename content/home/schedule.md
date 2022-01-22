@@ -8,9 +8,9 @@ weight: 2  # section position on page
 design:
 columns: '1'
 ---
-All of the self-paced learning modules have an associated quiz. The quizzes can be found under the quizzes tab in Brightspace.
+All of the self-paced learning modules have an associated quiz. The quizzes can be found under the quizzes tab in Brightspace. Assignments and quizzes are due before class on the due dates below.
 
-|Date  |Class|Topics                    |Due               |Assigned|(Optional) Reading|
+|Date  |Class|Topics                    |Due (before class)|Assigned|(Optional) Reading|
 |------|-----|--------------------------|------------------|--------|------------------|
 |M 1/24|   01|Review of the course and the syllabus; Overview of computing; Using IDLE, [Visual Studio CODE](https://code.visualstudio.com/docs/python/python-tutorial), and [Replit](https://replit.com) for writing Python programs; Programming turtle graphics|Nothing|[Self-paced learning module #1](https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php) and quiz|None|
 |W 1/26|   02|Function calls; strings and string literals; variables; the "input" function; numeric literals and basic math operations|Self-paced learning module #1 and quiz| Assignment #1, [Self-paced learning module #2](https://cs.nyu.edu/elearning/CSCI_UA_0002/module02.php) and quiz| [Gaddis](https://www.pearson.com/us/higher-education/program/Gaddis-My-Lab-Programming-with-Pearson-e-Text-Access-Card-for-Starting-out-with-Python-5th-Edition/PGM2889368.html) (text), chapters 1 & 2|
