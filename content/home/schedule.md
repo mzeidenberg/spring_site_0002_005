@@ -26,9 +26,10 @@ All of the self-paced learning modules have an associated quiz. The quizzes can 
 |W 3/2|   11|Workshop|Assignment #4|Assignment #5||
 |M 3/7|   12|Introduction to writing your own functions; variable scope (Global vs. Local variables); passing arguments to functions; global variables and global constants; writing value returning functions; Input, Processing, Output notation (IPO); modules & Modular Design|Self-paced learning module #6 and quiz |[Self-paced learning module #7](https://cs.nyu.edu/elearning/CSCI_UA_0002/module07.php) and quiz |Gaddis, Chapter 5|
 |W 3/9|   13|Workshop|Assignment #5|Assignment #6|None| |M 3/14|   --|No class: Spring Break| | | |
+|M 3/14|   --|No class: Spring Break| | | |
 |W 3/16|   --|No class: Spring Break| | | |
-|W 3/21|   14|Functions, Part II||||
-|M 3/23|   15|Midterm Exam Review Session||||
+|M 3/21|   14|Functions, Part II||||
+|W 3/23|   15|Midterm Exam Review Session||||
 |M 3/28|   16|Midterm Exam||||
 |W 3/30|   17|String manipulation and processing text-based data; string slicing|Assignment #6, self-paced learning module #7|[Self-paced learning module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.php) and quiz |Gaddis, Chapter 8|
 |M 4/4|   18|Workshop||Assignment #7||
