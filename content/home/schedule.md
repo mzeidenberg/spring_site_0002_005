@@ -41,6 +41,6 @@ All of the self-paced learning modules have an associated quiz. The quizzes can 
 |M 4/25|   24|Workshop||Assignment #10||
 |W 4/27|   25|Object-oriented programming|Self-paced learning module #11 and quiz ||Gaddis, Chapter 10|
 |M 5/2|   26|Workshop||Assignment #11||
-|W 5/4|   27|Final Exam Review|Assignment #10; |||
+|W 5/4|   27|Final Exam Review|Assignment #10|||
 |M 5/9|   28|Final Exam Review|Assignment #11|||
 |TBA  |   --|[Final Exam, scheduled by the CS department](https://cs.nyu.edu/dynamic/courses/exams/?semester=spring_2022&level=UA)| | | |
