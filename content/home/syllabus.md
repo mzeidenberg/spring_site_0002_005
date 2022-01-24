@@ -56,7 +56,7 @@ You don't need to read or purchase a textbook for this class (sufficient materia
 
 The first one is freely available online (you can also buy a printed copy). The second costs money, but you can save by buying a earlier (3rd or 4th) edition, which will work fine and would usually be cheaper.
 
-[How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+[Think Python, Second Edition](https://greenteapress.com/wp/think-python-2e/) - Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 
 [Starting Out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-My-Lab-Programming-with-Pearson-e-Text-Access-Card-for-Starting-out-with-Python-5th-Edition/PGM2889368.html) - 5th Edition - Tony Gaddis
 
