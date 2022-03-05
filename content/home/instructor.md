@@ -21,3 +21,5 @@ New York, New York 10012
 email: mz3332@nyu.edu   
 Cell: 718-304-7609   
 Fax: 212-995-4124   
+
+TA: Zhaoxi Shi, zs2108@nyu.edu
